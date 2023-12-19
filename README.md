@@ -15,8 +15,8 @@ Learn 2 ways to use your data with GenAI models:
 
 
 
-# DEMO 1 - RAG approach with Amazon Kendra
+## DEMO 1 - RAG approach with Amazon Kendra
 
 
 
-# DEMO 2 - RAG approach with VectorDB 
+## DEMO 2 - RAG approach with VectorDB 
