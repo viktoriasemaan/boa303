@@ -6,9 +6,9 @@ In these demos, you will explore how RAG ( Retrieval-Augmented Generation ) can 
 
 Learn 2 ways to use your data with GenAI models:
 
-1️⃣ DEMO1: Deploying Llama2 with Sagemaker, CodeWhisperer + Kendra for data retrieval 
+1️⃣ DEMO 1: [Deploying Llama2 with Sagemaker, CodeWhisperer + Kendra for data retrieval](#demo-1---rag-approach-with-amazon-kendra)
 
-2️⃣ DEMO 2: Using Claude 2 with Bedrock + Vector DB for data retrieval 
+2️⃣ DEMO 2: [Using Claude 2 with Bedrock + Vector DB for data retrieval](#demo-2---rag-approach-with-vectordb)
 
 🎥 Watch the session [here](https://bit.ly/BOA303-reinvent-23)
 
