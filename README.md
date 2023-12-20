@@ -36,7 +36,7 @@ Learn 2 ways to use your data with GenAI models:
 - Open Amazon Kendra console. Click **Create an index**. Provide index name. Under IAM Select **Create a new role (Recommended)**. Enter role name. Click **Next**, then **Next** in the follow-up screens, and Click **Create**.
 
 <div align="center">
-    <img src="images/image-01.jpg" width="400" height="400">
+    <img src="images/image-01.jpg" width="500" height="500">
 </div>
 
 
@@ -44,27 +44,27 @@ Learn 2 ways to use your data with GenAI models:
 - Find Amazon S3 Connector. Click **Add connector**. 
 
 <div align="center">
-    <img src="images/image-02.jpg" width="400" height="400">
+    <img src="images/image-02.jpg" width="500" height="500">
 </div>
 
 - Provide Data Source name. Click **Next**. Create a new role or select an existing role.
 - Click **Browse S3** and select the bucket that you created in Step 1. At the bottom select **Frequency Run on demand**. Click **Next**, then **Next** again then **Add data resources**.
 
 <div align="center">
-    <img src="images/image-03.jpg" width="400" height="400">
+    <img src="images/image-03.jpg" width="500" height="500">
 </div>
 
 - Once the data source is created, click **Sync Now** button at the top.
 - Let’s add one more data source. Click on **Data sources** on the left pane then click **Add data source**. Search for Web and pick **Web Crawler V2.0**.
 
 <div align="center">
-    <img src="images/image-04.jpg" width="400" height="400">
+    <img src="images/image-04.jpg" width="500" height="500">
 </div>
 
 - Provide data source name and click **Next**. Copy URL from step 1 into **Source URLs**. Select **Create a new role (Recommended)** at the bottom, type name, and click **Next**. 
 
 <div align="center">
-    <img src="images/image-05.jpg" width="400" height="400">
+    <img src="images/image-05.jpg" width="500" height="500">
 </div>
 
 - Keep default options and select Frequency **Run on demand**. Click **Next**, then **Next** again then **Add data resources**.
@@ -85,7 +85,7 @@ Learn 2 ways to use your data with GenAI models:
 3. Update s3_path with path to your bucket created in prerequisites. Update if needed csv file name
 
 <div align="center">
-    <img src="images/image-06.jpg" width="400" height="400">
+    <img src="images/image-06.jpg" width="500" height="500">
 </div>
 
 
@@ -94,7 +94,7 @@ Learn 2 ways to use your data with GenAI models:
 1. Copy your SageMaker Endpoint and replace in the code. In SageMaker Console, go to Sidebar > Home > Deployment dropdown > Endpoints — copy the name of the LLM and paste in the 3rd row below
 
 <div align="center">
-    <img src="images/image-07.jpg" width="400" height="400">
+    <img src="images/image-07.jpg" width="500" height="500">
 </div>
 
 
