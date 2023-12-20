@@ -35,7 +35,7 @@ Learn 2 ways to use your data with GenAI models:
 
 - Open Amazon Kendra console. Click **Create an index**. Provide index name. Under IAM Select **Create a new role (Recommended)**. Enter role name. Click **Next**, then **Next** in the follow-up screens, and Click **Create**.
 
-![/Users/lhaviv/Development/boa303/images/image-01.jpg]
+![/images/image-01.jpg]
 
 - Copy index name and save for future references. Wait for index to become active and click **Add data sources**.
 - Find Amazon S3 Connector. Click **Add connector**. 
