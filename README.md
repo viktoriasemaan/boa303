@@ -67,14 +67,43 @@ Learn 2 ways to use your data with GenAI models:
     <img src="images/image-05.jpg" width="400" height="400">
 </div>
 
-- Keep default options and select **Frequency Run on demand**. Click **Next**, then **Next** again then **Add data resources**.
+- Keep default options and select Frequency **Run on demand**. Click **Next**, then **Next** again then **Add data resources**.
 - Once the data source is created, click **Sync Now** button at the top.
 
 
+#### Demo 1 - Part 1: Notebook updates
+
+1. Open SageMaker Studio and copy `Demo1 - RAG with SageMaker and Kendra.ipynb` notebook.
+
+2. Install dependencies as needed
+
+   ```bash
+   !pip install —upgrade —quiet sagemaker
+   !pip install langchain
 
 
+3. Update s3_path with path to your bucket created in prerequisites. Update if needed csv file name
+
+<div align="center">
+    <img src="images/image-06.jpg" width="400" height="400">
+</div>
 
 
+#### Demo 1 -  Part 2: Notebook updates
+
+1. Copy your SageMaker Endpoint and replace in the code. In SageMaker Console, go to Sidebar > Home > Deployment dropdown > Endpoints — copy the name of the LLM and paste in the 3rd row below
+
+<div align="center">
+    <img src="images/image-07.jpg" width="400" height="400">
+</div>
+
+
+#### Demo 1 - Part 3: Notebook updates
+
+1. Update Kendra IndexID in the code and AWS region.
+
+
+Run your notebook and ask questions!
 
 
 ## DEMO 2 - RAG approach with VectorDB 
