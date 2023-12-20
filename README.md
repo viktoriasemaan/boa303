@@ -2,13 +2,6 @@
 
 This repository is complementary to breakout session on "BOA303 - Unlock insights with AWS GenAI services" at [re:Invent 2023](https://reinvent.awsevents.com/)
 
-<<<<<<< HEAD
-diagram 1 general
-
-demo 1 - diagram animated
-
-de
-=======
 🎥 Watch the session [here](https://bit.ly/BOA303-reinvent-23)
 
 In these demos, you will explore how RAG ( Retrieval-Augmented Generation ) can enhance AI models by leveraging external data sources to provide context-aware answers and unlock insights.
@@ -27,4 +20,3 @@ Learn 2 ways to use your data with GenAI models:
 
 
 ## DEMO 2 - RAG approach with VectorDB 
->>>>>>> 0dae24de763bb159c6f43d3fe682791307835a52
