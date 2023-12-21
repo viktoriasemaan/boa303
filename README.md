@@ -90,7 +90,7 @@ Learn 2 ways to use your data with GenAI models:
 
 ### Demo 1 - Part 1: Notebook updates
 
-1. Open SageMaker Studio and copy `Demo1 - RAG with SageMaker and Kendra.ipynb` notebook.
+1. Open SageMaker Studio and copy [`Demo1 - RAG with SageMaker and Kendra.ipynb`](https://github.com/viktoriasemaan/boa303/blob/main/Demo1%20-%20RAG%20with%20SageMaker%20and%20Kendra.ipynb) notebook.
 
 2. Install dependencies as needed
 
