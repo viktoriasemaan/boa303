@@ -4,6 +4,9 @@ This repository is complementary to breakout session on "BOA303 - Unlock insight
 
 🎥 Watch the session [here](https://bit.ly/BOA303-reinvent-23)
 
+[!["BOA303"](http://img.youtube.com/vi/ZdjFqPwlmLU/0.jpg)](http://www.youtube.com/watch?v=ZdjFqPwlmLU "BOA303")
+
+
 In these demos, you will explore how RAG ( Retrieval-Augmented Generation ) can enhance AI models by leveraging external data sources to provide context-aware answers and unlock insights.
 
 <div align="center">
