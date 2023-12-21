@@ -11,6 +11,7 @@ In these demos, you will explore how RAG ( Retrieval-Augmented Generation ) can 
 </div>
 
 
+
 Learn 2 ways to use your data with GenAI models:
 
 1️⃣ DEMO 1: [Deploying Llama2 with Sagemaker, CodeWhisperer + Kendra for data retrieval](#demo-1---rag-approach-with-amazon-kendra)
@@ -84,7 +85,7 @@ Learn 2 ways to use your data with GenAI models:
 - Once the data source is created, click **Sync Now** button at the top.
 
 
-#### Demo 1 - Part 1: Notebook updates
+### Demo 1 - Part 1: Notebook updates
 
 1. Open SageMaker Studio and copy `Demo1 - RAG with SageMaker and Kendra.ipynb` notebook.
 
@@ -102,7 +103,7 @@ Learn 2 ways to use your data with GenAI models:
 </div>
 
 
-#### Demo 1 -  Part 2: Notebook updates
+### Demo 1 -  Part 2: Notebook updates
 
 1. Copy your SageMaker Endpoint and replace in the code. In SageMaker Console, go to Sidebar > Home > Deployment dropdown > Endpoints — copy the name of the LLM and paste in the 3rd row below
 
@@ -111,7 +112,7 @@ Learn 2 ways to use your data with GenAI models:
 </div>
 
 
-#### Demo 1 - Part 3: Notebook updates
+### Demo 1 - Part 3: Notebook updates
 
 1. Update Kendra IndexID in the code and AWS region.
 
