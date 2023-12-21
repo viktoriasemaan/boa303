@@ -107,6 +107,8 @@ Learn 2 ways to use your data with GenAI models:
 
 
 
+
+
 ## DEMO 2 - RAG approach with VectorDB 
 
 ### Prerequisites:
@@ -121,6 +123,10 @@ Learn 2 ways to use your data with GenAI models:
     1. Click indexes on the left pane then click button Create index.
     2. Give an index the name “demoindex”. Configure dimensions 1536, metric cosine, then click Create index. Save index name and environment name in your notes. We will use it later. 
     3. Go to API keys on the left pane and copy API key. Save it. We will use it later.
+
+<div align="center">
+    <img src="images/image-09.jpg" width="600">
+</div>
 
 
 ### Demo 2 - Part 1:Bedrock Configuration
