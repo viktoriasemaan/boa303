@@ -148,7 +148,7 @@ Learn 2 ways to use your data with GenAI models:
 
 ### Demo 2 - Part 1:Bedrock Configuration
 
-1. Open SageMaker Studio and copy `Demo2 - RAG with Bedrock and Vector DB.ipynb` notebook.
+1. Open SageMaker Studio and copy [`Demo2 - RAG with Bedrock and Vector DB.ipynb`](https://github.com/viktoriasemaan/boa303/blob/main/Demo2%20-%20RAG%20with%20Bedrock%20and%20Vector%20DB.ipynb) notebook.
 
 2. Create a `keys.env` file and add your Pinecone account information. Save this file in the same folder as your notebooks.
 
