@@ -6,11 +6,24 @@ This repository is complementary to breakout session on "BOA303 - Unlock insight
 
 In these demos, you will explore how RAG ( Retrieval-Augmented Generation ) can enhance AI models by leveraging external data sources to provide context-aware answers and unlock insights.
 
+<div align="center">
+    <img src="images/demo_1_2.gif" width="600">
+</div>
+
+
 Learn 2 ways to use your data with GenAI models:
 
 1️⃣ DEMO 1: [Deploying Llama2 with Sagemaker, CodeWhisperer + Kendra for data retrieval](#demo-1---rag-approach-with-amazon-kendra)
 
+<div align="center">
+    <img src="images/demo1.gif" width="600">
+</div>
+
 2️⃣ DEMO 2: [Using Claude 2 with Bedrock + Vector DB for data retrieval](#demo-2---rag-approach-with-vectordb)
+
+<div align="center">
+    <img src="images/demo2.gif" width="600">
+</div>
 
 
 ## DEMO 1 - RAG approach with Amazon Kendra
@@ -154,4 +167,4 @@ Learn 2 ways to use your data with GenAI models:
 
 
 
-Execute commands in the notebook.
+Execute commands in the notebook!
