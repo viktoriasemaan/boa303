@@ -120,7 +120,7 @@ Learn 2 ways to use your data with GenAI models:
 1. Update Kendra IndexID in the code and AWS region.
 
 
- Run your notebook and ask questions!
+ Run your notebook and ask questions! 🚀
 
 
 
@@ -171,4 +171,4 @@ Learn 2 ways to use your data with GenAI models:
 
 
 
-Execute commands in the notebook!
+Execute commands in the notebook! 🚀
